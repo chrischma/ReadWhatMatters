@@ -31,7 +31,7 @@ def short_pdf():
 
         if len(result) > 0:
 
-            if INCLUDE_CONTEXT is True and i >= 0:
+            if INCLUDE_CONTEXT is True and i > 0:
                 output_pdf.addPage(input_file_data.pages[i - 1])
                 output_file_page_count += 1
 
