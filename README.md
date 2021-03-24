@@ -1,4 +1,6 @@
 # ReadWhatMatters
-Tiny Python Tool to create a pdf that includes specific term from a source pdf
+
+## About
+ReadWhatMatters is a little Python app. It helps you to create a pdf-file that includes a certain search-term from another pdf.
 
 ![](screenshot.png)
